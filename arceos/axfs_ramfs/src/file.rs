@@ -52,5 +52,9 @@ impl VfsNodeOps for FileNode {
         Ok(buf.len())
     }
 
+    fn rename(&self, _src_path: &str, _dst_path: &str) -> VfsResult {
+        todo!()
+    }
+
     impl_vfs_non_dir_default! {}
 }
