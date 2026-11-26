@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "courseId": 2078,
+  "repository": "LearningOS/2026a-arceos-krteke",
+  "commit": "60f1ab7138763a0df8edd8fcd15d2e51c84a16e2",
+  "score": 500,
+  "totalScore": 600,
+  "exercises": [
+    {
+      "name": "print_with_color",
+      "max": 100,
+      "score": 100,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "ramfs_rename",
+      "max": 100,
+      "score": 100,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "alt_alloc",
+      "max": 100,
+      "score": 100,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "support_hashmap",
+      "max": 100,
+      "score": 100,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "sys_map",
+      "max": 100,
+      "score": 100,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "simple_hv",
+      "max": 100,
+      "score": 0,
+      "status": "timeout",
+      "exitCode": 124
+    }
+  ],
+  "student": "krteke",
+  "runId": "45752982290",
+  "runAttempt": "1",
+  "upload": {
+    "status": "pending"
+  }
+}
